@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Movie from "./components/Movie";
-import "./App.css"
+import "./App.scss"
 
 const App = () => {
   const [isLoading, setIsLoading] = useState(true);
@@ -36,6 +36,7 @@ const App = () => {
               title={movie.title}
               summary={movie.summary}
               poster={movie.medium_cover_image}
+              genres={movie.genres}
             ></Movie>
           ))}
         </div>
