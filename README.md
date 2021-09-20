@@ -8,4 +8,4 @@
 * `Chrome` 최신 버전 추천
 
 ## 실행방법
-* [**여기**](https://leaprealm.github.io/Hands-On-React-Movie-Rating-Web-Services)를 클릭해서 웹사이트에 접속합니다.
+* [**여기**](https://leaprealm.github.io/Hands-On-React-Movie-Rating)를 클릭해서 웹사이트에 접속합니다.
